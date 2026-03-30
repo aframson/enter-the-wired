@@ -48,3 +48,5 @@ go.work
 
 context.md
 result
+config.bat
+node_modules
